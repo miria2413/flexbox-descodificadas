@@ -44,7 +44,7 @@ main div {
     text-align: center;
 
 }
-sidebar {
+aside {
     flex: 1;
     background-color: red;
     padding: 40px;
